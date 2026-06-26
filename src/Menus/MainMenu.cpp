@@ -12,6 +12,9 @@ int StartMenu() {
     time(&timestamp);
 
     cout << "Hello the world " << ctime(&timestamp) << endl;
+
+    
+
     return 0;
 }
 
