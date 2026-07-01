@@ -33,4 +33,4 @@ To **compile** this project, as **root**, in the **project root**, run :
 - C++ programming course followed to make this project :
   - https://codewithmosh.com/p/ultimate-c-plus-plus-part1
   - https://www.w3schools.com/cpp
-- My dad who (does not like c++, ¯\_(ツ)_/¯ )
+- My dad who (does not like c++, ¯\ _ (ツ) _ /¯ )

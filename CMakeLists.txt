@@ -3,4 +3,5 @@ project(LifeGame)
 
 set(CMAKE_CXX_STANDARD 26)
 
-add_executable(main.cpp)
+file(GLOB SOURCES "src/*.cpp" "src/**/*.cpp" "main.cpp")
+add_executable(LifeGame ${SOURCES})
